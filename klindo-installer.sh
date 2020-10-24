@@ -50,6 +50,11 @@ elif [[ $option = 06 ]]; then
 	echo ""
 	echo "VLC is installed"
 	sleep 5
+	exitelif [[ $option = 31 ]]; then
+	sudo pacman -S fluxion
+	echo ""
+	echo "Fluxion is installed"
+	sleep 5
 	exit
 elif [[ $option = 07 ]]; then
 	sudo pacman -S git --needed
@@ -241,6 +246,8 @@ elif [[ $option = 32 ]]; then
 	sleep 5
 	exit
 
+elif [[ $option = 99 ]]; then
+	exit
 else 
     echo "Incorrect number!"
 fi
