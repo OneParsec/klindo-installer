@@ -210,7 +210,7 @@ elif [[ $option = 29 ]]; then
 	git clone https://github.com/OneParsec/hack-system-repos
 	cd hack-system-repos
 	chmod 777 *
-	./blackarch_repo_install.sh
+	sudo ./blackarch_repo_install.sh
 	cd ..
 	rm -r hack-system-repos
 	echo ""
@@ -234,7 +234,7 @@ elif [[ $option = 32 ]]; then
 	git clone https://github.com/OneParsec/hack-system-repos
 	cd hack-system-repos
 	chmod 777 *
-	./blackarch_repo_install.sh
+	sudo ./blackarch_repo_install.sh
 	cd ..
 	rm -r hack-system-repos
 	git clone https://aur.archlinux.org/yay.git
