@@ -1,0 +1,24 @@
+    __ __ ___           __         ____           __        ____         
+   / //_// (_)___  ____/ /___     /  _/___  _____/ /_____ _/ / /__  _____
+  / ,<  / / / __ \/ __  / __ \    / // __ \/ ___/ __/ __ `/ / / _ \/ ___/
+ / /| |/ / / / / / /_/ / /_/ /  _/ // / / (__  ) /_/ /_/ / / /  __/ /    
+/_/ |_/_/_/_/ /_/\__,_/\____/  /___/_/ /_/____/\__/\__,_/_/_/\___/_/     
+                                                                         
+
+ Select what you want to install?
+ 
+ CAUTION: If you want install Fluxion or Metsploit, first add Blackarch repo
+
+ ---------------------------- > > >
+
+[01] Git                       [12] Zsh                 [23] Nano     
+[02] Google Chrome             [13] Fish                [24] Yay                      
+[03] Mozilla Firefox           [14] Ark                 [25] Krita 
+[04] Mozilla Thunderbird       [15] LibreOffice         [26] GIMP                  
+[05] Telegram Desktop          [16] Nvidia Video Driver [27] htop  
+[06] VLC                       [17] Intel Video Driver  [28] OpenSSH
+[07] VMware Workstation 16     [18] AMD Video Driver    [29] Add BlackArch repo
+[08] qBittorrent               [19] KCalc               [30] Metasploit Framework
+[09] Gwenview                  [20] Latte-Dock          [31] Fluxion
+[10] Okular                    [21] Vim                 [32] Install All
+[11] GParted                   [22] Kate                [99] Exit
