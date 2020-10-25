@@ -8,3 +8,5 @@ $ cd klindo-installer
 $ chmod +x klindo-installer.sh
 $ ./klindo-installer.sh
 ```
+**Screenshot**
+![](images/screenshot.png)
